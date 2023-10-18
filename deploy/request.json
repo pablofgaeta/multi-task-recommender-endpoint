@@ -1,0 +1,15 @@
+{
+    "instances": [
+        {
+            "user_id": "41",
+            "exclusions": ["Fargo (1996)"]
+        },
+        {
+            "user_id": "42",
+            "exclusions": []
+        }
+    ],
+    "parameters": {
+        "k": 10
+    }
+}

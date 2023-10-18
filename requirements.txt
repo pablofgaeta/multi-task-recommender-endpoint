@@ -1,0 +1,6 @@
+tensorflow==2.13.0
+scann==1.2.10
+tensorflow-recommenders==0.7.3
+tensorflow-datasets==4.9.3
+numpy==1.23.5
+python-dotenv
